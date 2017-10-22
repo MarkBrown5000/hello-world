@@ -1,4 +1,4 @@
 # hello-world
 Github tutorial
 
-Leaning how to do commits.
+Learning how to do commits.
